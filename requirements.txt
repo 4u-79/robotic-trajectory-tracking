@@ -1,6 +1,6 @@
 gymnasium==1.0.0
 numpy>=1.21.0
-pybullet==3.2.9
+pybullet
 stable-baselines3==2.5.0
 matplotlib>=3.7.0
 torch>=2.4.0
